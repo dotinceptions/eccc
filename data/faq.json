@@ -1,1 +1,7 @@
-place holder
+[
+  {
+    "id": 1,
+    "question": "What can I do here?",
+    "answer": "This is the frequently asked questions page."
+  }
+]
